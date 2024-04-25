@@ -4,7 +4,7 @@ import discord
 intento = discord.Intents(34315)
 
 # Token de autenticación del bot
-llave = 'MTIzMjQxMjQ4OTE5OTc4Mzk1Nw.GpZCP2.fpkvoBiqqxt1oGy-ebkIO-rJ37X7icT6zmNMR8'
+llave = 'tullave'
 
 cliente = discord.Client(intents=intento)
 
